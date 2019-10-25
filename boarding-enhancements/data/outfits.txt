@@ -110,7 +110,7 @@ outfit "Small Armory"
 	cost 200000
 	mass 10
 	"outfit space" -10
-	description "The Small Armory provides an assortment of offensive and defensive weapons that are securely stored and readily available, in the event you are boarding or being boarded. A built-in weapons training area improves combat effectiveness of the crew."
+	description "The Small Armory provides an assortment of offensive and defensive weapons that are securely stored and readily available, in the event you are boarding or being boarded. A built-in weapons training area improves combat effectiveness of the crew. Obviously, no government encourages civilian possession of such small arsenal and training facilities, so purchasing these is restricted to detachments of Militia and Navy."
 	licenses
 		"Militia Carrier"
 
@@ -124,6 +124,6 @@ outfit "Large Armory"
 	cost 600000
 	mass 20
 	"outfit space" -20
-	description "Large Armory provides a huge assortment of offensive and defensive weapons (ranging from backup sidearms, to assault rifles and gas grenades) that are securely stored and readily available, in the event you are boarding or being boarded. A built in advanced training area (including android targeting dummies programmed for simulating various battle scenarios) hugely improves battle readiness of the crew. Obviously, no government encourages civilian possession of such sophisticated arsenal and training facilities, so owning these is restricted to detachments of Militia and Navy." 
+	description "Large Armory provides a huge assortment of offensive and defensive weapons (ranging from backup sidearms, to assault rifles and gas grenades) that are securely stored and readily available, in the event you are boarding or being boarded. A built in advanced training area (including android targeting dummies programmed for simulating various battle scenarios) hugely improves battle readiness of the crew. Obviously, no government encourages civilian possession of such sophisticated arsenal and training facilities, so purchasing these is restricted to detachments of Navy." 
 	licenses
 		"Navy"
