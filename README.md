@@ -4,7 +4,7 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 
 ![BetterBoardingPirates](https://github.com/Cat-Lady/BetterBoardingPirates) is highly recommended to use in tandem.
 
-![Boarding Enhancements Image](/boarding-enhancements/ico1n.png?raw=true "Boarding Enhancements Image")
+![Boarding Enhancements Image](/boarding-enhancements/icon.png?raw=true "Boarding Enhancements Image")
 
 
 ## Features
@@ -19,7 +19,7 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 
 - As indirect effect, boarding military targets or well-defended merchant fleets is now much more challenging... But also, much more rewarding, if you are prepared and act wisely.
 
-![Sidearm Image](/boarding-enhancements/images/outfit/sidearm1.png?raw=true "Sidearm Image")
+![Sidearm Image](/boarding-enhancements/images/outfit/sidearm.png?raw=true "Sidearm Image")
 
 
 ## Installing
@@ -46,7 +46,7 @@ Do **not** put ``vanilla-files-replace`` inside your ``/data/`` directory - it w
 
 You can skip step **#2.**, but some variants of Marauder ships (that should be one of toughtest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is (hopefully) temporary workaround around limitation in ES plugin's framework - I'm already actively working with upstream to fix it, so there is a chance it won't be necessary in future (instructions and "Release" notes will higlight when that will become reality).
 
-![Stun Grenades Image](/boarding-enhancements/images/outfit/stu1n%20grenades.png?raw=true "Stun Grenades Image")
+![Stun Grenades Image](/boarding-enhancements/images/outfit/stun%20grenades.png?raw=true "Stun Grenades Image")
 
 
 ## Author
@@ -72,4 +72,4 @@ Timothy Butterworth; for the initial base of the plugin
 
 Phil Morley, Rafael Ramawadh, kisspng.com - for base artwork.
 
-![Battle Armor Image](/boarding-enhancements/images/outfit/fla1ck%20vest.png?raw=true "Battle Armor Image")
+![Battle Armor Image](/boarding-enhancements/images/outfit/flack%20vest.png?raw=true "Battle Armor Image")
