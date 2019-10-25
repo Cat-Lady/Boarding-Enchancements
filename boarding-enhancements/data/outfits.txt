@@ -18,7 +18,7 @@ outfit "Battle Armor & Equipment"
 	"capture attack" 1.6
 	"capture defense" 2
 	"unplunderable" 1
-	description "This is a standardized set used by Militia boarding complements, or guards onboard (wealthy) merchant's fleets. Typically, it contains of a flack vest (offering fair amount of protection from blaster and laser fire, impenetrable to blades and bullets), a blaster rifle and stun grenade. The only thing giving better protection is the Navy's licensed ATBS (Advanced Tactical Battle Suit)."
+	description "This is a standardized set used by Militia boarding complements, or guards onboard (wealthy) merchant's fleets. Typically, it contains of a flack vest (offering fair amount of protection from blaster and laser fire, impenetrable to blades and bullets), a laser rifle and stun grenade. The only thing giving better protection is the Navy's licensed ATBS (Advanced Tactical Battle Suit)."
 
 
 outfit "Advanced Tactical Battle Suit"
@@ -29,7 +29,7 @@ outfit "Advanced Tactical Battle Suit"
 	"capture attack" 4
 	"capture defense" 2
 	"unplunderable" 1
-	description "The Navy's Advanced Tactical Battle Suit (ATBS) is a full an complete ensemble - providing protection from head to toe, and nearly impenetrable to regular blaster or laser fire. The helmet's HUD paired with an Assault Rifle shows real-time targeting information and calculates origin of incoming fire. Grenades and a backup pistol complete this battle-proven set. (Un)fortunately, its production is tightly controlled, and those are only available to the Republic Navy's/Intelligence shock squads... Or, very rarely, worn by pirates, who somehow managed to overcome Navy's warships (and broken system's protection against unauthorized use)."
+	description "The Navy's Advanced Tactical Battle Suit (ATBS) is a full an complete ensemble - providing protection from head to toe, and nearly impenetrable to regular blaster or laser fire. The helmet's HUD paired with an Plasma Assault Rifle shows real-time targeting information and calculates origin of incoming projectiles. Grenades and a backup pistol complete this battle-proven set. (Un)fortunately, its production is tightly controlled, and those are only available to the Republic Navy's/Intelligence shock squads... Or, very rarely, worn by pirates, who somehow managed to overcome Navy's warships (and broken system's protection against unauthorized use)."
 	licenses
 		"Navy"
 
@@ -86,7 +86,7 @@ outfit "Assault Rifle"
 	"capture attack" 1.2
 	"capture defense" .8
 	"unplunderable" 1
-	description "Smaller, more maneuverable and with more firepower than the common Laser Rifle, the Assault Rifle further improves the odds of capturing another ship or defending your own from boarders."
+	description "As a recent entry to the small arms market from Lionheart Industries, Heavy Assault Laser Rifle offers more firepower than the common Laser Rifle, further improving the odds of capturing another ship or defending your own from boarders."
 
 
 outfit "Sidearm"
@@ -111,7 +111,8 @@ outfit "Small Armory"
 	mass 10
 	"outfit space" -10
 	description "The Small Armory provides an assortment of offensive and defensive weapons that are securely stored and readily available, in the event you are boarding or being boarded. A built-in weapons training area improves combat effectiveness of the crew."
-
+	licenses
+		"Militia Carrier"
 
 outfit "Large Armory"
 	plural "Large Armories"
@@ -125,4 +126,4 @@ outfit "Large Armory"
 	"outfit space" -20
 	description "Large Armory provides a huge assortment of offensive and defensive weapons (ranging from backup sidearms, to assault rifles and gas grenades) that are securely stored and readily available, in the event you are boarding or being boarded. A built in advanced training area (including android targeting dummies programmed for simulating various battle scenarios) hugely improves battle readiness of the crew. Obviously, no government encourages civilian possession of such sophisticated arsenal and training facilities, so owning these is restricted to detachments of Militia and Navy." 
 	licenses
-		"Militia Carrier"
+		"Navy"
