@@ -2,7 +2,7 @@
 
 This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky". It adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required) - everything should perfectly fit into base game's feel. 
 
-![BetterBoardingPirates](https://github.com/Cat-Lady/BetterBoardingPirates) is recommended to use in tandem.
+![BetterBoardingPirates](https://github.com/Cat-Lady/BetterBoardingPirates) is highly recommended to use in tandem.
 
 ![Boarding Enhancements Image](/boarding-enhancements/icon.png?raw=true "Boarding Enhancements Image")
 
