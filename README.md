@@ -68,6 +68,7 @@ This project is licensed under the GPL3 License - see the [LICENSE.md](LICENSE.m
 Lleyton, KIV King from "Endless Sky" Chat Community - for proofreading and error-correcting outfit's descriptions.
 
 "Endless Sky" Chat Community - for patiently explaining how stuff works - without it, the outfits would be never integrated into AI's usage.
+
 Timothy Butterworth; for the initial base of the plugin
 
 Phil Morley, Rafael Ramawadh, kisspng.com - for base artwork.
