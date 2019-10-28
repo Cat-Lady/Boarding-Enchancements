@@ -7331,7 +7331,7 @@ fleet "Marauder fleet VII"
 		"Osprey (Laser)"
 
 	variant 9
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Osprey-armed3"
 		"Osprey (Missile)-armed3"
 		"Osprey (Laser)-armed3"
@@ -7422,7 +7422,7 @@ fleet "Marauder fleet VIII"
 		"Osprey (Laser)"
 
 	variant 4
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Osprey-armed3"
 		"Osprey (Missile)-armed3"
 		"Osprey (Laser)-armed3"
@@ -7493,7 +7493,7 @@ fleet "Marauder fleet IX"
 		"Osprey (Laser)"
 
 	variant 1
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Osprey-armed3"
 		"Osprey (Missile)-armed3"
 		"Osprey (Laser)-armed3"
@@ -7573,14 +7573,14 @@ fleet "Marauder fleet X"
 		"Marauder Bounder (Weapons)"
 
 	variant 1
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Marauder Firebird"
 		"Marauder Raven (Weapons)"
 		"Marauder Quicksilver (Engines)"
 		"Marauder Arrow (Weapons)"
 		"Marauder Bounder (Engines)"
 	variant 1
-		"Marauder Falcon-tacarmor10"
+		"Marauder Falcon-tacarmed10"
 		"Marauder Firebird"
 		"Marauder Raven (Engines)"
 		"Marauder Quicksilver (Weapons)"
