@@ -15,6 +15,7 @@ This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky"
 - Full and seamless integration into rest of the game. Stuff is available for purchase in sensible places (if you meet the criteria - for more powerful ones), AI ships use it - progressively integrating more numerous and powerful outfits as certain in-game war event unfolds - and overall, strong gear is in possession of forces that you would expect them to do so (be sure to expect certain renegade warlords to be armed to teeth).
 
 - For the first time in _**Endless Sky**_ - quasi-random distribution of boarding outfits on AI controlled ships. Even when meeting "same" or similarly constructed fleet, you can never be sure if you will encounter only token defense or full-fledged boarding regiment (especially on warships) - or, anything in between. 
+
 **Hint:** As an effect, "Outfit Scanner" becomes much more useful thing to have. Knowing what you expect might now be a difference between choosing vulnerable targets and diving head-on into suicidal boarding attempt.
 
 - As indirect effect, boarding military targets or well-defended merchant fleets is now much more challenging... But also, much more rewarding, if you are prepared and act wisely.
