@@ -45,7 +45,7 @@ It **won't** work if the directory structure will be anything like:
 
 Do **not** put ``vanilla-files-replace`` inside your ``/data/`` directory - it won't work like that. You need to directly replace approriate files with plugin's ones.
 
-You can skip step **#2.**, but some variants of Marauder ships (that should be one of toughest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is (hopefully) temporary workaround around limitation in ES plugin's framework - I'm already actively working with upstream to fix it, so there is a chance it won't be necessary in future (instructions and "Release" notes will higlight when that will become reality).
+You can skip step **#2.**, but some variants of Marauder ships (that should be one of toughest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is result of ES incomplete ability to handle plugin's data (not replacing vanilla ship variants), and without the project issuing a fix, nothing can be done to remedy the necessity.
 
 ![Stun Grenades Image](/boarding-enhancements/images/outfit/stun%20grenades.png?raw=true "Stun Grenades Image")
 
