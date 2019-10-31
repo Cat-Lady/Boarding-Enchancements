@@ -1,0 +1,75 @@
+This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky". It adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required) - everything should perfectly fit into base game's feel. 
+
+For always up-to-date description and instructions, (formatted in easier to follow way than steam forum allows) see:
+[url]https://github.com/Cat-Lady/Boarding-Enhancements[/url]
+
+[url=https://github.com/Cat-Lady/BetterBoardingPirates]Better Boarding Pirates[/url]
+...is highly recommended to use in tandem.
+
+
+
+[h1]Features[/h1]
+
+[list][*]8 new types of gear for your (and enemy) crew to use during boarding - ranging from Dirt Belt's hunting rifles and small sidearms, to full fledged Navy's Advanced Tactical Battle Suit.
+
+[*]2 ship's outfits that greatly increase battle readiness of crew stationed aboard vessel's sporting them.
+
+[*]Full and seamless integration into rest of the game. Stuff is available for purchase in sensible places (if you meet the criteria - for more powerful ones), AI ships use it - progressively integrating more numerous and powerful outfits as certain in-game war event unfolds - and overall, strong gear is in possession of forces that you would expect them to do so (be sure to expect certain renegade warlords to be armed to teeth).
+
+[*]For the first time in [i][b]Endless Sky[/b][/i] - quasi-random distribution of boarding outfits on AI controlled ships. Even when meeting "same" or similarly constructed fleet, you can never be sure if you will encounter only token defense or full-fledged boarding regiment (especially on warships) - or, anything in between. 
+[b]Hint[/b] As an effect, "Outfit Scanner" becomes much more useful thing to have. Knowing what you expect might now be a difference between choosing vulnerable targets and diving head-on into suicidal boarding attempt.
+
+[*]As indirect effect, boarding military targets or well-defended merchant fleets is now much more challenging... But also, much more rewarding, if you are prepared and act wisely.
+
+
+
+[h1]Installing[/h1]
+
+Check:
+https://github.com/Cat-Lady/Boarding-Enhancements/releases
+
+...for latest, pre-packaged version.
+
+
+[b]1.[/b] Unpack [i]boarding-enhancements[/i] to your ES plugins folder. Be sure that you have single [i]boarding-enhancements[/i] directory inside your plugins folder, containing [i]data[/i] and [i]images[/i] folders. Directory structure should look like:
+
+[code](...)/plugins/boarding-enhancements/(.../data/, /images/ and other stuff)[/code]
+
+It [b]won't[/b] work if the directory structure will be anything like:
+
+[code](...)/plugins/Boarding-Enhancements/boarding-enhancements/(...)[/code]
+
+
+[b]2.[/b] Use files from [i]vanilla-files-replace[/i] directory to replace files in your ES installation's [i]/data/[/i] directory. Overwrite files when prompted.
+
+Do [b]not[/b] put [i]vanilla-files-replace[/i] inside your [i]/data/[/i] directory - it won't work like that. You need to directly replace appropriate files with plugin's ones.
+
+You can skip step [b]#2.[/b], but some variants of Marauder ships (that should be one of toughest nuts to crack while boarding) won't have new outfits. This step of replacing vanilla files is result of ES incomplete ability to handle plugin's data (not replacing vanilla ship variants), and without the project issuing a fix, nothing can be done to remedy the necessity.
+
+
+
+[h1]Author[/h1]
+
+[list][*][b]Cat Lady[/b][/list]
+
+[i]Initial work[/i] - [url=https://github.com/tmbutterworth/hand-to-hand-outfits]TimButterworth[/url]
+
+
+
+[h1]License[/h1]
+
+This project is licensed under the GPL3 License - see the LICENSE.md file for details.
+
+
+
+[h1]Acknowledgments[/h1]
+
+"Endless Sky" Development Team and Michael Zahniser; For maintaining and creating the game
+
+Lleyton, KIV King from "Endless Sky" Chat Community - for proofreading and error-correcting outfit's descriptions.
+
+"Endless Sky" Chat Community - for patiently explaining how stuff works - without it, the outfits would be never integrated into AI's usage.
+
+Timothy Butterworth; for the initial base of the plugin
+
+Phil Morley, Rafael Ramawadh, kisspng.com - for base artwork.
