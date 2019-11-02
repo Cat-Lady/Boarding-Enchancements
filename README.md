@@ -1,4 +1,4 @@
-## This plugin is a part of upcoming "Endless Sky: Captain's Edition" reboot of the base game. Stay tuned - meanwhile, installing the plugins can help to preview the experience, together or in parts.
+### This plugin is a part of upcoming "Endless Sky: Captain's Edition" reboot of the base game. Stay tuned - meanwhile, installing the plugins can help to preview the experience, together or in parts.
 # Boarding Enhancements
 
 This plugin integrates boarding enhancements (doh!) into FOSS game "Endless Sky". It adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required) - everything should perfectly fit into base game's feel. 
