@@ -522,7 +522,7 @@ event "navy using mark ii ships"
 			"Rainmaker (Mark II)" 2
 
 		add variant 12
-			"Rainmaker (Mark II)-sidearm" 2
+			"Rainmaker (Mark II)-blaster" 2
 
 		add variant 12
 			"Gunboat (Mark II)"
@@ -530,10 +530,10 @@ event "navy using mark ii ships"
 
 		add variant 6
 			"Gunboat (Mark II)-armed4"
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 		add variant 12
 			"Gunboat (Mark II)-armed2"
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 
 		add variant 9
 			"Frigate (Mark II)"
@@ -557,7 +557,7 @@ event "navy using mark ii ships"
 			"Rainmaker (Mark II)" 3
 
 		add variant 3
-			"Rainmaker (Mark II)-sidearm" 3
+			"Rainmaker (Mark II)-blaster" 3
 
 		add variant 12
 			"Gunboat (Mark II)"
@@ -606,7 +606,7 @@ event "navy using mark ii ships"
 
 		add variant 12
 			"Frigate (Mark II)-armed8" 2
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 			"Gunboat (Mark II)-armed4"
 		add variant 6
 			"Cruiser (Mark II)-tacarmed10"
@@ -615,7 +615,7 @@ event "navy using mark ii ships"
 			"Cruiser (Mark II)-tacarmed10"
 			"Combat Drone" 4
 			"Frigate (Mark II)-armed8"
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 		add variant 6
 			"Carrier (Mark II)-tacarmed30"
 			"Lance-sidearm" 4
@@ -627,7 +627,7 @@ event "navy using mark ii ships"
 			"Cruiser (Mark II)-tacarmed10"
 			"Combat Drone" 4
 			"Frigate (Mark II)-armed8" 2
-			"Rainmaker (Mark II)-sidearm" 2
+			"Rainmaker (Mark II)-blaster" 2
 			"Gunboat (Mark II)-armed4" 2
 		add variant 3
 			"Cruiser (Mark II)-tacarmed10"
@@ -635,12 +635,12 @@ event "navy using mark ii ships"
 			"Frigate (Mark II)-armed8" 2
 		add variant 3
 			"Frigate (Mark II)-armed8"
-			"Rainmaker (Mark II)-sidearm" 2
+			"Rainmaker (Mark II)-blaster" 2
 			"Gunboat (Mark II)-armed4"
 
 		add variant 12
 			"Frigate (Mark II)-armed4" 2
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 			"Gunboat (Mark II)-armed2"
 		add variant 6
 			"Cruiser (Mark II)-tacarmed5"
@@ -649,7 +649,7 @@ event "navy using mark ii ships"
 			"Cruiser (Mark II)-tacarmed5"
 			"Combat Drone" 4
 			"Frigate (Mark II)-armed4"
-			"Rainmaker (Mark II)-sidearm"
+			"Rainmaker (Mark II)-blaster"
 		add variant 6
 			"Carrier (Mark II)-tacarmed10"
 			"Lance-sidearm" 4
@@ -661,7 +661,7 @@ event "navy using mark ii ships"
 			"Cruiser (Mark II)-tacarmed5"
 			"Combat Drone" 4
 			"Frigate (Mark II)-armed4" 2
-			"Rainmaker (Mark II)-sidearm" 2
+			"Rainmaker (Mark II)-blaster" 2
 			"Gunboat (Mark II)-armed2" 2
 		add variant 3
 			"Cruiser (Mark II)-tacarmed5"
@@ -669,7 +669,7 @@ event "navy using mark ii ships"
 			"Frigate (Mark II)-armed4" 2
 		add variant 3
 			"Frigate (Mark II)-armed4"
-			"Rainmaker (Mark II)-sidearm" 2
+			"Rainmaker (Mark II)-blaster" 2
 			"Gunboat (Mark II)-armed2"
 
 		add variant 12
